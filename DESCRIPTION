@@ -1,0 +1,12 @@
+Package: survivalcalculator
+Type: Package
+Title: Bankruptcy Survival Calculator
+Version: 1.0
+Date: 2014-09-12
+Author: David Schnell-Davis
+Maintainer: David <dschnelldavis@gmail.com>
+Description: This package calculates the probability that 
+	a company will emerge from bankruptcy based on 
+	a small set of inputs that are known before the case begins.
+License: Apache2
+LazyData: true
